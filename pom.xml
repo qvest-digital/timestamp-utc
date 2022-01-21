@@ -39,7 +39,7 @@
 		<jaxb-api.version>2.3.3</jaxb-api.version>
 		<!-- testing -->
 		<junit.version>4.13.2</junit.version>
-		<h2.version>1.4.200</h2.version>
+		<h2.version>2.1.210</h2.version>
 		<!-- maven plugins -->
 		<maven.owasp.dependency-check.version>6.5.0</maven.owasp.dependency-check.version>
 	</properties>
