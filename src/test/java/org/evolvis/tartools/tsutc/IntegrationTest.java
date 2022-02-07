@@ -98,7 +98,8 @@ createSessionFactory()
 	cfg.addAnnotatedClass(LogRow.class);
 	cfg.setProperty("hibernate.dialect", "org.hibernate.dialect.H2Dialect");
 	cfg.setProperty("hibernate.connection.driver_class", "org.h2.Driver");
-	cfg.setProperty("hibernate.connection.url", "jdbc:h2:mem:testdb");
+	/* cf. https://stackoverflow.com/a/70906928/2171120 */
+	cfg.setProperty("hibernate.connection.url", "jdbc:h2:mem:testdb;MODE=LEGACY");
 	cfg.setProperty("hibernate.hbm2ddl.auto", "create");
 	return cfg.buildSessionFactory();
 }
