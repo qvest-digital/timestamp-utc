@@ -34,14 +34,14 @@
 		<sonar.sources>src/main</sonar.sources>
 		<sonar.tests>src/test</sonar.tests>
 		<!-- dependencies -->
-		<hibernate.version>5.3.24.Final</hibernate.version>
+		<hibernate.version>5.3.25.Final</hibernate.version>
 		<javax.persistence.version>2.2.3</javax.persistence.version>
 		<jaxb-api.version>2.3.3</jaxb-api.version>
 		<!-- testing -->
 		<junit.version>4.13.2</junit.version>
-		<h2.version>1.4.200</h2.version>
+		<h2.version>2.1.210</h2.version>
 		<!-- maven plugins -->
-		<maven.owasp.dependency-check.version>6.5.0</maven.owasp.dependency-check.version>
+		<maven.owasp.dependency-check.version>6.5.3</maven.owasp.dependency-check.version>
 	</properties>
 	<scm>
 		<connection>scm:git:https://evolvis.org/anonscm/git/tartools/tsutc.git</connection>
