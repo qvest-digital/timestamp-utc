@@ -1,6 +1,6 @@
 antlr:antlr 2.7.7 provided ok
 com.fasterxml:classmate 1.5.1 provided ok
-com.h2database:h2 2.1.210 test ok
+com.h2database:h2 2.1.212 test ok
 com.sun.istack:istack-commons-runtime 3.0.7 provided ok
 com.sun.xml.fastinfoset:FastInfoset 1.2.15 provided ok
 jakarta.activation:jakarta.activation-api 1.2.2 test ok
