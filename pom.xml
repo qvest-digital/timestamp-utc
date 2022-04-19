@@ -167,6 +167,7 @@
 						<configuration>
 							<ignoredUnusedDeclaredDependencies combine.children="append">
 								<!-- used by the tests -->
+								<ignoredUnusedDeclaredDependency>com.h2database:h2</ignoredUnusedDeclaredDependency>
 								<ignoredUnusedDeclaredDependency>jakarta.xml.bind:jakarta.xml.bind-api</ignoredUnusedDeclaredDependency>
 							</ignoredUnusedDeclaredDependencies>
 						</configuration>
