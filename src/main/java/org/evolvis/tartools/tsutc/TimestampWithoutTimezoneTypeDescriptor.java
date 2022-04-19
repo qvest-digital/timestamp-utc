@@ -3,11 +3,10 @@ package org.evolvis.tartools.tsutc;
 /*-
  * tsutc (TimestampWithoutTimezone) is Copyright
  *  © 2016, 2018 mirabilos (t.glaser@tarent.de)
- * Licensor is tarent solutions GmbH, http://www.tarent.de/
- *
  * TimestampWithoutTimezoneTypeDescriptor is a derivative work of
  * Hibernate, Relational Persistence for Idiomatic Java, 5.1.0.FINAL,
  * Copyright © 2010, 2011, 2012, 2015, 2016 Red Hat, Inc. (under CLA)
+ * Licensor is tarent solutions GmbH, http://www.tarent.de/
  *
  * This library is free software; you can redistribute it and/or
  * modify it under the terms of the GNU Lesser General Public
