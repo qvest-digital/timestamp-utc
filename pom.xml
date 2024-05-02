@@ -22,15 +22,15 @@
 	<developers>
 		<developer>
 			<name>mirabilos</name>
-			<email>t.glaser@tarent.de</email>
-			<organization>⮡ tarent</organization>
-			<organizationUrl>http://www.tarent.de/</organizationUrl>
+			<email>t.glaser@qvest-digital.com</email>
+			<organization>QVEST ⮡ dıgıtal</organization>
+			<organizationUrl>https://qvest-digital.com/</organizationUrl>
 		</developer>
 	</developers>
 	<properties>
 		<archiver.copyright.firstyear>2016</archiver.copyright.firstyear>
 		<archiver.copyright.lastyear>2020</archiver.copyright.lastyear>
-		<archiver.copyright>Copyright © 2016, 2018, 2020 mirabilos; Licensor: tarent solutions GmbH</archiver.copyright>
+		<archiver.copyright>Copyright © 2016, 2018, 2020 mirabilos; Licensor: Qvest Digital AG, Bonn, Germany</archiver.copyright>
 		<sonar.sources>src/main</sonar.sources>
 		<sonar.tests>src/test</sonar.tests>
 		<!-- dependencies -->

@@ -2,8 +2,8 @@ package org.evolvis.tartools.tsutc;
 
 /*-
  * tsutc (TimestampWithoutTimezone) is Copyright
- *  © 2016, 2018 mirabilos (t.glaser@tarent.de)
- * Licensor is tarent solutions GmbH, http://www.tarent.de/
+ *  © 2016, 2018 mirabilos (t.glaser@qvest-digital.com)
+ * Licensor: Qvest Digital AG, Bonn, Germany
  *
  * This library is free software; you can redistribute it and/or
  * modify it under the terms of the GNU Lesser General Public
@@ -35,7 +35,7 @@ import static org.junit.Assert.assertNotNull;
 /**
  * Test class for tsutc, mostly so the classes are not marked as unused.
  *
- * @author mirabilos (t.glaser@tarent.de)
+ * @author mirabilos (t.glaser@qvest-digital.com)
  */
 public class TimestampWithoutTimezoneTest {
 
