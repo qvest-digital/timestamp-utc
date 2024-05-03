@@ -33,15 +33,17 @@
 		<archiver.copyright>Copyright © 2016, 2018, 2020 mirabilos; Licensor: Qvest Digital AG, Bonn, Germany</archiver.copyright>
 		<sonar.sources>src/main</sonar.sources>
 		<sonar.tests>src/test</sonar.tests>
-		<!-- dependencies -->
+		<!-- ‣ dependencies -->
 		<hibernate.version>5.3.26.Final</hibernate.version>
 		<javax.persistence.version>2.2.3</javax.persistence.version>
 		<jaxb-api.version>2.3.3</jaxb-api.version>
-		<!-- testing -->
+		<!-- ‣ testing -->
 		<junit.version>4.13.2</junit.version>
 		<h2.version>2.1.212</h2.version>
-		<!-- maven plugins -->
+		<!-- ‣ maven plugins -->
 		<maven.owasp.dependency-check.version>9.1.0</maven.owasp.dependency-check.version>
+		<!-- ‣ release management -->
+		<project.build.outputTimestamp>1970-01-01T00:00:00Z</project.build.outputTimestamp>
 	</properties>
 	<scm>
 		<connection>scm:git:https://evolvis.org/anonscm/git/tartools/tsutc.git</connection>
