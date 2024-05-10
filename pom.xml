@@ -8,7 +8,7 @@
 	</parent>
 	<groupId>org.evolvis.tartools</groupId>
 	<artifactId>timestamp-utc</artifactId>
-	<version>1.12</version>
+	<version>1.14-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<name>${project.groupId}:${project.artifactId}</name>
 	<description>TIMESTAMP WITHOUT TIME ZONE mapping as UTC</description>
@@ -43,13 +43,13 @@
 		<!-- ‣ maven plugins -->
 		<maven.owasp.dependency-check.version>9.1.0</maven.owasp.dependency-check.version>
 		<!-- ‣ release management -->
-		<project.build.outputTimestamp>2024-05-10T17:40:26Z</project.build.outputTimestamp>
+		<project.build.outputTimestamp>2024-05-10T17:42:35Z</project.build.outputTimestamp>
 	</properties>
 	<scm>
 		<connection>scm:git:https://evolvis.org/anonscm/git/tartools/tsutc.git</connection>
 		<developerConnection>scm:git:ssh://maven@evolvis.org/scmrepos/git/tartools/tsutc.git</developerConnection>
 		<url>https://evolvis.org/plugins/scmgit/cgi-bin/gitweb.cgi?p=tartools/tsutc.git</url>
-		<tag>timestamp-utc-1.12</tag>
+		<tag>HEAD</tag>
 	</scm>
 	<dependencies>
 		<dependency>
