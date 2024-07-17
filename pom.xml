@@ -4,7 +4,7 @@
 	<parent>
 		<groupId>org.evolvis.tartools.maven-parent</groupId>
 		<artifactId>pom</artifactId>
-		<version>3.3-SNAPSHOT</version>
+		<version>3.4-SNAPSHOT</version>
 	</parent>
 	<groupId>org.evolvis.tartools</groupId>
 	<artifactId>timestamp-utc</artifactId>
@@ -40,9 +40,9 @@
 		<jaxb-api.version>2.3.3</jaxb-api.version>
 		<!-- ‣ testing -->
 		<junit.version>4.13.2</junit.version>
-		<h2.version>2.2.224</h2.version>
+		<h2.version>2.3.230</h2.version>
 		<!-- ‣ maven plugins -->
-		<maven.owasp.dependency-check.version>9.2.0</maven.owasp.dependency-check.version>
+		<maven.owasp.dependency-check.version>10.0.3</maven.owasp.dependency-check.version>
 		<!-- ‣ release management -->
 		<project.build.outputTimestamp>2024-05-10T17:42:35Z</project.build.outputTimestamp>
 	</properties>
